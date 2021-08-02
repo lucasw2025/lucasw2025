@@ -4,7 +4,9 @@ I'm currently pretty fluent in Luau, an version of Lua modified for Roblox.
 
 I am currently using GitHub, as my access to Roblox, site, forums, app, and studio have been cut off 😿.
 
-If my access to Roblox wasn't cut off, I would be an awesome plugin🧩 and experience🌎 developer. 😁
+If my access to Roblox wasn't cut off, I would be desire to be an awesome plugin🧩 and experience🌎 developer. 😁
+
+I can also use Microsoft Paint🎨 pretty well.
 
 [My Roblox Avatar]
 
