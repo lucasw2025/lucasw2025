@@ -2,10 +2,6 @@ Hi, I'm Lucas.
 
 I'm currently pretty fluent in Luau, an version of Lua modified for Roblox.
 
-I am currently using GitHub, as my access to Roblox, site, forums, app, and studio have been cut off 😿.
-
-If my access to Roblox wasn't cut off, I would be desire to be an awesome plugin🧩 and experience🌎 developer. 😁
-
 I can also use Microsoft Paint🎨 pretty well.
 
 [My Roblox Avatar]
@@ -16,4 +12,5 @@ I can also use Microsoft Paint🎨 pretty well.
 Hidden text?
 --->
 
-7/31/2021
+9/20/2020 - Joined GitHub, but was inactivate
+7/31/2021 - Started partially using github
